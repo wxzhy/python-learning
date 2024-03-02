@@ -1,0 +1,3 @@
+Paris: 23 
+Rome: 26 
+Helsinki: 17.8

@@ -1,0 +1,8 @@
+name    age    score
+amy 11  70
+john    8  80
+bill    12  66
+Baron   10  60
+sa  9   78
+kasa    9   90
+mark    11  91

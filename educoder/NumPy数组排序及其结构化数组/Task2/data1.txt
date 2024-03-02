@@ -1,0 +1,5 @@
+name    age    score
+Emma 7  73
+Edith    8  79
+May    12  88
+Ivy   11  66
